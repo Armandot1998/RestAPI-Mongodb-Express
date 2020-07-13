@@ -3,7 +3,7 @@
 
 const express = require('express'),
       bodyPaser = require('body-parser'),
-      usuarioRutas = require('../routs/usuario.rutas')
+      usuarioRutas = require('../routes/usuario.rutas')
 
 
 let app = express()
